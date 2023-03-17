@@ -16,3 +16,4 @@ This is not Financial Advice. <br>
 I'm simply playing around and I might not know what i'm doing. <br>
 
 ## Sources <br>
+api <a href = "https://finnhub.io/"> finnhub stock tickers </a>
