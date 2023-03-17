@@ -1,9 +1,11 @@
 # Machine Learning Stock Market Prediction <br>
-Stock price prediction using Machine Learning <br>
+Under Construction: <br>
+Stock price prediction using Machine Learning Algorithms <br>
 
 We will be using the following techniques <br>
 <ul>
   <li> linear regression
+  <li> more to come...
 </ul>
 
 ## Read Me <br>
