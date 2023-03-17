@@ -1,4 +1,4 @@
-# ml_stock_prediction
+# Machine Learning Stock Market Prediction 
 Stock price prediction using Machine Learning
 
 # Read Me
