@@ -17,3 +17,5 @@ I'm simply playing around and I might not know what i'm doing. <br>
 
 ## Sources <br>
 api <a href="https://finnhub.io/" target="_blank"> finnhub stock tickers </a>
+
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p>
