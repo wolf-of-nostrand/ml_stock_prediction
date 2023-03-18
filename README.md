@@ -11,7 +11,7 @@ Stock price prediction using Machine Learning Algorithms <br>
 
 ## Machine Learning Process
 
-Simple supervised marchine learning stock market prediction: <br>
+Simple supervised machine learning stock market prediction: <br>
 will be using the following techniques <br>
 <ul>
   <li> linear regression: to predict the future stock price
