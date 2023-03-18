@@ -17,14 +17,14 @@ Simple supervised machine learning stock market prediction: (will be using the f
   <li> binary classification algoritm:  predict if the stock will go up, or down (not sure which one to use yet) 
 </ul>
 
-#Problems
+# Problems
 <ul>
   <li> Slow API and not enough historial interval data
   <li> Dependent on API
   <li> Seconds to minutes lag delays compared to other fast minisecond algo traders
 </ul>
 
-#Pros
+# Pros
 <ul>
   <li> good for resarch
   <li> general sentiment or general market conditions
