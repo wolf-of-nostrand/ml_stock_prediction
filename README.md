@@ -1,8 +1,8 @@
 # Machine Learning Stock Market Prediction <br>
 Under Construction: <br>
-Stock price prediction using Machine Learning Algorithms <br><u
+Stock price prediction using Machine Learning Algorithms <br>
 
-# Data Mining Process
+## Data Mining Process
 <ul> 
   <li> Financial API calls for data
   <li> Sentiment analysis on current news per day w/ bull and bear counts from articals
