@@ -9,6 +9,8 @@ Stock price prediction using Machine Learning Algorithms <br>
   <li> Fundimental analysis (later on)
 </ul>
 
+## Machine Learning Process
+
 Simple prediction: will be using the following techniques <br>
 <ul>
   <li> linear regression
