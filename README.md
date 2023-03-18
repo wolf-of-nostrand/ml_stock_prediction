@@ -1,8 +1,15 @@
 # Machine Learning Stock Market Prediction <br>
 Under Construction: <br>
-Stock price prediction using Machine Learning Algorithms <br>
+Stock price prediction using Machine Learning Algorithms <br><u
 
-We will be using the following techniques <br>
+# Data Mining Process
+<ul> 
+  <li> Financial API calls for data
+  <li> Sentiment analysis on current news per day w/ bull and bear counts from articals
+  <li> Fundimental analysis (later on)
+</ul>
+
+Simple prediction: will be using the following techniques <br>
 <ul>
   <li> linear regression
   <li> more to come...
