@@ -1,3 +1,9 @@
+## Read Me <br>
+Trying to use Machine Learning techniques to predict stock prices. <br>
+We wil be making a series of notebooks on how we got to the final product. <br>
+If you want to skip to the last notebook when this series is over, be my guest. <br>
+
+
 # Machine Learning Stock Market Prediction <br>
 Under Construction: <br>
 Stock price prediction using Machine Learning Algorithms <br>
@@ -31,8 +37,6 @@ Simple supervised machine learning stock market prediction: (will be using the f
   <li> general sentiment or general market conditions
 </ul>
 
-## Read Me <br>
-Trying to use Machine Learning techniques to predict stock prices. <br>
 
 #### Disclaimer 
 This is not Financial Advice. <br>
