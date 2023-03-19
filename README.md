@@ -28,7 +28,7 @@ Simple supervised machine learning stock market prediction: (will be using the f
 <ul>
   <li> Slow API and not enough historial interval data
   <li> Dependent on API
-  <li> Seconds to minutes lag delays compared to other fast minisecond algo traders
+  <li> Seconds to minutes lag delays results compared to other fast minisecond algo traders
 </ul>
 
 ### Pros
